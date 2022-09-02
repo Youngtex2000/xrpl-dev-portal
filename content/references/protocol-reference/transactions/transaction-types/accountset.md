@@ -16,7 +16,7 @@ An AccountSet transaction modifies the properties of an [account in the XRP Ledg
 ```json
 {
     "TransactionType": "AccountSet",
-    "Account" : "rf1BiGeXwwQoi8Z2ueFYTEXSwuJYfV2Jpn",
+    "Account" : "rf1BiGeXwwQoi8Z2ueFYTEXSwuJYfV2Jp",
     "Fee": "12",
     "Sequence": 5,
     "Domain": "6578616D706C652E636F6D",
